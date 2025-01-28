@@ -2,11 +2,11 @@ package bunnystorage
 
 import (
 	"fmt"
+	"github.com/cineplexmedia/bunnystorage-go/internal/build"
 	"log/slog"
 	"sync"
 	"time"
 
-	"git.sr.ht/~jamesponddotco/bunnystorage-go/internal/build"
 	"git.sr.ht/~jamesponddotco/xstd-go/xerrors"
 )
 
